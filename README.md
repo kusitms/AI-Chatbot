@@ -3,7 +3,7 @@
          그동안 의견 나온 것들!
          특정인의 말투를 따라하는 chatbot 만들기, 혹은 유명인의 말투 따라하기(text), 10대 말투, 아재 말투로 대화하는 챗봇
          
-### 2. Members
+### 2. Member
         송형라, 신재욱, 이다빈, 전다운 
 ### 3. Precedent Research
 |Paper Title|Author|
