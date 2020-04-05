@@ -17,6 +17,6 @@
 챗봇을 만들기 위해 seq2seq , rnn -> LSTM , word2vec.. 와 관련한 학습이 필요하다는 것을 알았습니다.
 
 ### 4. Available Dataset
-한국어 문장과 관련된 dataset : https://lionbridge.ai/datasets/10-best-korean-language-datasets-for-machine-learning/
-Chatscript(규칙기반의 인공지능 개발툴 이용한 챗봇 만들기 - 구체적 챗봇 구현 방법 및 순서 제시되어 있음) : https://exagen.tistory.com/notice/63
-ChatterBot(machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations) : https://github.com/gunthercox/ChatterBot/blob/master/README.md
+         한국어 문장과 관련된 dataset : https://lionbridge.ai/datasets/10-best-korean-language-datasets-for-machine-learning/
+         Chatscript(규칙기반의 인공지능 개발툴 이용한 챗봇 만들기 - 구체적 챗봇 구현 방법 및 순서 제시되어 있음) : https://exagen.tistory.com/notice/63
+         ChatterBot(machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations) : https://github.com/gunthercox/ChatterBot/blob/master/README.md
