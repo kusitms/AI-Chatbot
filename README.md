@@ -13,28 +13,18 @@
 |A Personal Conversation Assistant Based on Seq2seq with Word2vec Cognitive Map|Shen Maoyuan, Huang Runhe|     
 |Feedback-Based Self-Learning in Large-Scale Conversational AI Agents/ Pragaash Ponnusamy|Alireza Roshan Ghias, Chenlei Guo, Ruhi Sarikaya|   
 |Learning from Dialogue after Deployment: Feed Yourself, Chatbot!|Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazaré, Jason Weston| 
-|Sounding Board: A User-Centric and Content-Driven Social Chatbot|Hao Fang, Hao Cheng, Maarten Sap, Elizabeth Clark, Ari Holtzman, Yejin Choi, Noah A. Smith, Mari Ostendorf
-| 
+|Sounding Board: A User-Centric and Content-Driven Social Chatbot|Hao Fang, Hao Cheng, Maarten Sap, Elizabeth Clark, Ari Holtzman, Yejin Choi, Noah A. Smith, Mari Ostendorf| 
 
 ### 4. Available Dataset
-         한국어 문장과 관련된 dataset : https://lionbridge.ai/datasets/10-best-korean-language-datasets-for-machine-learning/
-         Chatscript(규칙기반의 인공지능 개발툴 이용한 챗봇 만들기 - 구체적 챗봇 구현 방법 및 순서 제시되어 있음) : https://exagen.tistory.com/notice/63
-         ChatterBot(machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations) : https://github.com/gunthercox/ChatterBot/blob/master/README.md
-         
-         
- chatter bot 이용하여 챗봇 만들기:https://blog.naver.com/naininfo/221565586081
-->ChatterBot는 pip 를 사용하여 설치 할 수 있습니다.
-(onebook) > pip install chatterbot
-
-(onebook) > pip install --upgrade chatterbot_corpus korean
-
-(onebook) > pip install --upgrade chatterbot
-
-​
-한국어 코퍼스 다운:
-https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data
-
-한국어 질문 답변 데이터셋 코쿼드:https://korquad.github.io/
+ - 한국어 문장과 관련된 dataset : https://lionbridge.ai/datasets/10-best-korean-language-datasets-for-machine-learning/
+ - Chatscript(규칙기반의 인공지능 개발툴 이용한 챗봇 만들기 ) : https://exagen.tistory.com/notice/63
+ - ChatterBot(machine-learning based conversational dialog engine build in Python which makes it possible to generate responses      based on collections of known conversations) : https://github.com/gunthercox/ChatterBot/blob/master/README.md
+ - Chatter bot 이용하여 챗봇 만들기:https://blog.naver.com/naininfo/221565586081
+->(onebook) > pip install chatterbot
+  (onebook) > pip install --upgrade chatterbot_corpus korean
+  (onebook) > pip install --upgrade chatterbot
+- 한국어 코퍼스: https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data
+- 한국어 질문 답변 데이터셋 코쿼드:https://korquad.github.io/
 
 
 
