@@ -19,9 +19,9 @@
  - 한국어 문장과 관련된 dataset : https://lionbridge.ai/datasets/10-best-korean-language-datasets-for-machine-learning/
  - Chatscript(규칙기반의 인공지능 개발툴 이용한 챗봇 만들기 ) : https://exagen.tistory.com/notice/63
  - ChatterBot(machine-learning based conversational dialog engine build in Python which makes it possible to generate responses      based on collections of known conversations) : https://github.com/gunthercox/ChatterBot/blob/master/README.md
- - Chatter bot 이용하여 챗봇 만들기:https://blog.naver.com/naininfo/221565586081
-->(onebook) > pip install chatterbot
-  (onebook) > pip install --upgrade chatterbot_corpus korean
+ - Chatter bot 이용하여 챗봇 만들기:https://blog.naver.com/naininfo/221565586081  
+->(onebook) > pip install chatterbot  
+  (onebook) > pip install --upgrade chatterbot_corpus korean  
   (onebook) > pip install --upgrade chatterbot
 - 한국어 코퍼스: https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data
 - 한국어 질문 답변 데이터셋 코쿼드:https://korquad.github.io/
